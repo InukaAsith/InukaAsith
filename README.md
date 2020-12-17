@@ -3,7 +3,7 @@
 
 # GITHUB STATUS.
 
-![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true&theme=midnight)
+![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true)
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
 # TOOLS AND LANGS USED.
@@ -16,7 +16,7 @@
 
 # MOST USED LANGUAGES
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=InukaAsith&theme=blue-green)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=InukaAsith)
 
 # Follow me on
 
