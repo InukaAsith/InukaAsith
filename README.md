@@ -7,7 +7,7 @@
 
 
 
-<img align='centre' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
+<img align='right' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
