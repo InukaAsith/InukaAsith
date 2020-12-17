@@ -1,6 +1,6 @@
 # Hey, I am Inuka Asith  🇱🇰
 
-<img width="40%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="40%" align="center" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,7 +26,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently working on [InfinityJE](https://infinityje.com/);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [TWE](https://t.me/infinityje) 🤝;
+- 👯 I’m looking to collaborate on [InfinityJE](https://t.me/infinityje) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
