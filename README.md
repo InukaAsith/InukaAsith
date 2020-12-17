@@ -1,6 +1,6 @@
 # Hey, I am Inuka Asith  🇱🇰
 
-<img width="40%" align="center" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
