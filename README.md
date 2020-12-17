@@ -28,8 +28,8 @@ You can use the website to generate badges: https://shields.io/
   <a href="https://github.com/inukaasith/handle-path-oz">
     <img width="55%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=inukaasith&show_icons=true&hide_border=true" />
   </a>
-  </p>
-  <p align ="right">
+</p>
+<p align ="right">
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -42,7 +42,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br />
-  </p>  
+</p>  
 # TOOLS AND LANGS USED
 - ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python)&nbsp;&nbsp;
 - ![Pycharm](https://img.shields.io/badge/PYcharm-ffffff?style=for-the-badge&logo=pycharm)&nbsp;&nbsp;
