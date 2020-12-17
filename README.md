@@ -1,4 +1,4 @@
-# 🇱🇰 Hey, I am Inuka Asith 🇱🇰
+# Hey, I am Inuka Asith  🇱🇰
 <img align='centre' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
 
 # GITHUB STATUS.
