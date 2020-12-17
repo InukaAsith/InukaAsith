@@ -26,12 +26,10 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-admin)
 
-<p align="left">>
-  <a href="https://github.com/Inukaasith/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=inukaasith&show_icons=true&hide_border=true" />
-  </a>
-  </p>
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
   <p align ="right">
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
