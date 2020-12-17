@@ -1,13 +1,13 @@
 # Hey, I am Inuka Asith  🇱🇰
-<p align ="left">
+
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Inukaasith](https://t.me/inukaasith/)**                                                                                |
 | <a href="https://github.com/inukaasith"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/inuka.max.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
-</p>
 
 
-<img align='right' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
+
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -49,7 +49,7 @@ You can use the website to generate badges: https://shields.io/
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-admin)
 
-
+<img align='right' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
 
 # Follow me on
 
