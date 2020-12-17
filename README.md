@@ -1,4 +1,4 @@
-# HEY, I AM Inuka Asith 👋
+# Hey, I am Inuka Asith 👋
 <img align='centre' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
 
 # MY TOOLS AND LANG.
@@ -19,7 +19,7 @@
 
 # Follow me on
 
-<p align="right">
+<p align="left">
   <a href="https://t.me/InukaASiTH">
     <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
   </a>
