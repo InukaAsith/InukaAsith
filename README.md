@@ -1,5 +1,5 @@
 # HEY, I AM Inuka Asith 👋
-<img align='centre' src='https://media.tenor.com/images/846b7789b5c28a0b9fa2f66977c16fea/tenor.gif' width='500"'>
+<img align='centre' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
 
 # MY TOOLS AND LANG.
 
@@ -17,9 +17,9 @@
 
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=InukaAsith&theme=blue-green)
 
-# CONNECT ME.
+# Follow me on
 
-<p align="center">
+<p align="right">
   <a href="https://t.me/InukaASiTH">
     <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" width="40" height="40">
   </a>
