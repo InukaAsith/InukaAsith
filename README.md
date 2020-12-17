@@ -84,5 +84,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 ---
 
+# Week Activity
+[![Inuka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inukaasith&custom_title=Inuka's%20Week%20Stats)](https://wakatime.com/@Inukaasith)
 
 
