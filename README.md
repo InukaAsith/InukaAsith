@@ -3,7 +3,7 @@
 
 # GITHUB STATUS.
 
-![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true&theme=midnight-blue)
+![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true&theme=midnight)
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
 # TOOLS AND LANGS USED.
