@@ -1,5 +1,7 @@
 # Hey, I am Inuka Asith  🇱🇰
 
+<img width="40%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Inukaasith](https://t.me/inukaasith/)**                                                                                |
@@ -20,7 +22,7 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-<img width="35%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+
 
 - 👨🏽‍💻 I’m currently working on [InfinityJE](https://infinityje.com/);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
@@ -72,7 +74,7 @@ You can use the website to generate badges: https://shields.io/
 # MOST USED LANGUAGES
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-admin)
 
-<img align='right' src='https://telegra.ph/file/032e346e61e5e2ac25798.png' width='500"'>
+
 
 # Follow me on
 <p align="left">
