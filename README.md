@@ -10,7 +10,7 @@
 
 # MY STATUS.
 
-![InukaAsith github stats](https://github-readme-stats.vercel.app/api?username=starkgang&show_icons=true&theme=midnight-purple)
+![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true&theme=midnight-purple)
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
 # MOST USED LANGUAGE
