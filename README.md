@@ -20,6 +20,19 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
+<img width="55%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+
+- 👨🏽‍💻 I’m currently working on [InfinityJE](https://infinityje.com/);
+- 🌱 I’m currently learning Python And Linux(CircleCI); 
+- 👯 I’m looking to collaborate on [TWE](https://t.me/infinityje) 🤝;
+- 🤔 I’m looking for help with Design Pattern 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I'm Still Student;
+- 📫 How to reach me: inukaasith7@gmail.com;
+
+
+
+
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
