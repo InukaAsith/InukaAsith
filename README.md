@@ -1,5 +1,5 @@
 # Hey, I am Inuka Asith  🇱🇰
-<p align = "right">
+
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Inukaasith](https://t.me/inukaasith/)**                                                                                |
