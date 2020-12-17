@@ -19,6 +19,15 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:inukaasith7@outlook.com)
 
 &nbsp;
+
+# GITHUB STATUS.
+
+<p align="left">
+  <a href="http://hits.dwyl.com/onimur/onimur" target="_blank">
+    <img align="center" alt="HitCount" src="http://hits.dwyl.com/inukaasith/inukaasith.svg" />
+  </a>
+    <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=inukaasith" />
+</p>
   <p align ="right">
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <code><img width="10%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -33,9 +42,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
   <br />
 </p>  
-# GITHUB STATUS.
-
-![InukaAsith's github stats](https://github-readme-stats.vercel.app/api?username=Inukaasith&show_icons=true)
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
 # TOOLS AND LANGS USED
