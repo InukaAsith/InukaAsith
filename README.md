@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 
 # GITHUB STATUS.
 - ![Profile views](https://gpvc.arturio.dev/Inukaasith)
-- [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Inukaasith?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/inukaasith?tab=followers)
 
 <p>
   <a href="https://github.com/inukaasith/handle-path-oz">
