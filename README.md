@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
-- 👨🏽‍💻 I’m currently working on [InfinityJE](https://infinityje.com/);
+- 👨🏽‍💻 I’m currently working on [DevsExpo](https://t.me/fridayot);
 - 🌱 I’m currently learning Python And Linux(CircleCI); 
 - 👯 I’m looking to collaborate on [InfinityJE](https://t.me/infinityje) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
@@ -83,7 +83,4 @@ You can use the website to generate badges: https://shields.io/
 <a href="https://www.facebook.com/inuka.max.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 ---
-
-# Week Activity
-[![Inuka's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=inukaasith&custom_title=Inuka's%20Week%20Stats)](https://wakatime.com/@Inukaasith)
 
