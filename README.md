@@ -72,7 +72,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 # MOST USED LANGUAGES
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kaviya-admin)
+![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=inukaasith)
 
 
 
