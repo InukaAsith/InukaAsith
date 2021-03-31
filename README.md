@@ -25,9 +25,9 @@ You can use the website to generate badges: https://shields.io/
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
 - 👨🏽‍💻 I’m currently working on [DevsExpo](https://t.me/fridayot);
-- 🌱 I’m currently learning Python And Linux(CircleCI); 
-- 👯 I’m looking to collaborate on [InfinityJE](https://t.me/infinityje) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+- 🌱 I’m currently learning Python Pyrogram & Telethon; 
+- 👯 I’m looking to collaborate on [TeamDaisyX](https://t.me/daisySupport_Official) 🤝;
+- 🤔 I’m looking for help with bot developing 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Still Student;
 - 📫 How to reach me: inukaasith7@gmail.com;
