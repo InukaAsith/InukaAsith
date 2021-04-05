@@ -1,6 +1,6 @@
 # Hey , I am Inuka Asith  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Please note: All popular repositories are at [TeamDaisyX](https://GitHub.com/teamdaisyx) & [InfinityBots](https://github.com/infinity-bots)
+## Please note: My popular repositories are at [TeamDaisyX](https://GitHub.com/teamdaisyx) & [InfinityBots](https://github.com/infinity-bots)
 
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 - 👯 I’m looking to collaborate on [TeamDaisyX](https://t.me/daisySupport_Official) 🤝;
 - 🤔 I’m looking for help with bot developing 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Still Student;
+- ⚡️ Fun-Fact: I'm Noob;
 - 📫 How to reach me: inukaasith7@gmail.com;
 
 
