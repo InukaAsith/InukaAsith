@@ -20,15 +20,9 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](Inukaasith7:inukaasith7@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:inukaasith7@outlook.com)
 
-&nbsp;
-
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inukaasith&label=Profile%20views&color=0e75b6&style=flat" alt="inukaasith" /> </p>
-
 <p align="left"> <a href="https://github.com/inukaasith"><img src="https://github-profile-trophy.vercel.app/?username=inukaasith&no-bg=true" alt="inukaasith" /></a> </p>
 
-
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
 - 👨🏽‍💻 I’m currently working on [TeamDaisyX](https://t.me/daisySupport_Official);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
