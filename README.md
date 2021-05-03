@@ -24,7 +24,13 @@ You can use the website to generate badges: https://shields.io/
 
 <img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
 
-- 👨🏽‍💻 I’m currently working on [DevsExpo](https://t.me/fridayot);
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=inukaasith&label=Profile%20views&color=0e75b6&style=flat" alt="inukaasith" /> </p>
+
+<p align="left"> <a href="https://github.com/inukaasith"><img src="https://github-profile-trophy.vercel.app/?username=inukaasith&no-bg=true" alt="inukaasith" /></a> </p>
+
+
+
+- 👨🏽‍💻 I’m currently working on [TeamDaisyX](https://t.me/daisySupport_Official);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
 - 👯 I’m looking to collaborate on [TeamDaisyX](https://t.me/daisySupport_Official) 🤝;
 - 🤔 I’m looking for help with bot developing 😭;
@@ -61,6 +67,7 @@ You can use the website to generate badges: https://shields.io/
 </p>  
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inukaasith&" alt="inukaasith" /></p>
 # 
 
 # TOOLS AND LANGS USED
