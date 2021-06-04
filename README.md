@@ -1,6 +1,6 @@
 # Hey , I am Inuka Asith  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Please note: My popular repositories are at [TeamDaisyX](https://GitHub.com/teamdaisyx) & [InfinityBots](https://github.com/infinity-bots)
+## Please note: My popular repositories are at [TeamDaisyX](https://GitHub.com/teamofdaisyx)
 
 |  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
