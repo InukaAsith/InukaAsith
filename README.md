@@ -2,7 +2,7 @@
 
 ## Please note: My popular repositories are at [TeamDaisyX](https://GitHub.com/teamdaisyx)
 
-|  <a href="https://t.me/inukaasith/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://t.me/inukaasith/"><img src="https://media.istockphoto.com/vectors/programming-code-application-window-vector-id1124838925?k=20&m=1124838925&s=170667a&w=0&h=qiorTps2pQd6vm29ApL50h9W6fiQgHle9_2fbb9OXw4=" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |       **[Inukaasith](https://t.me/inukaasith/)**                                                                                |
 | <a href="https://github.com/inukaasith"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/inuka.max.3"><img src="https://i.ibb.co/zmYNW4p/facebook.png" width="32px" height="32px"></a> <a href="https://www.instagram.com/inukaasith7/"><img src="https://i.ibb.co/Kx2GSrT/instagram.png" width="32px" height="32px"></a> |
@@ -80,8 +80,6 @@ You can use the website to generate badges: https://shields.io/
 # Follow me on
 <p align="left">
 <a href="https://t.me/inukaasith" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/inukaasith7" target="blank"><img align="center" src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/inuka.max.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kushal.bhanot.98" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 ---
 
