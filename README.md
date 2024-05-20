@@ -49,7 +49,6 @@
 <a href="https://www.instagram.com/Inukaasith6" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
 
 
-# GITHUB STATUS.
 - [![GitHub followers](https://img.shields.io/github/followers/inukaasith.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/inukaasith?tab=followers)
 <p>
   <a href="https://github.com/inukaasith/handle-path-oz">
