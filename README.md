@@ -26,6 +26,9 @@
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/html-5.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/css3.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/tailwind_css.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/sass.png"/></a>
+
 
 #### Backend
 <a href="#"><img src="https://img.icons8.com/color/48/django.png"></a>
