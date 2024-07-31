@@ -1,24 +1,19 @@
 ## Hi 👋 I'm [Inuka](https://github.com/InukaAsith) 
 
-- 🎥 Video Editor (VFX, Color Grading, Audio Mixing)
+- 💻 Studiying CS
 - 💀 **Suck** at learning
 - 🎮 Gamer
 - 📫 **inukaasith7@gmail.com**
 
-## 🛠️ Languages and tools
-
-### Video Editing
-<a href="#"><img src="https://img.icons8.com/color/48/davinci-resolve.png"/></a>
-
-
-### Game Development
-<a href="#"><img src="https://img.icons8.com/color/48/unreal-engine.png"/></a>
+## 🛠️ Languages and tools familiar with
 
 
 ### Programming languages
+<a href="#"><img src="https://img.icons8.com/fluency/48/c-programming.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
+<a href="#"><img src="https://img.icons8.com/color/48/assembly.png"/></a>
 
 
 ### Web development
@@ -33,6 +28,12 @@
 #### Backend
 <a href="#"><img src="https://img.icons8.com/color/48/django.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/api-settings.png"/></a>
+
+### Video Editing
+<a href="#"><img src="https://img.icons8.com/color/48/davinci-resolve.png"/></a>
+
+### Game Development
+<a href="#"><img src="https://img.icons8.com/color/48/unreal-engine.png"/></a>
 
 
 
