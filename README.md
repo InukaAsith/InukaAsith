@@ -5,12 +5,12 @@
 - 🎮 Gamer
 - 📫 **inukaasith7@gmail.com**
 
-## 🛠️ Languages and tools familiar with
+## 🛠️ Languages and tools
 
 
 ### Programming languages
-<a href="#"><img src="https://img.icons8.com/fluency/48/c-programming.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/python.png"/></a>
+<a href="#"><img src="https://img.icons8.com/fluency/48/c-programming.png"/></a>
 <a href="#"><img src="https://img.icons8.com/fluency/48/null/javascript.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/assembly.png"/></a>
