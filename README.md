@@ -27,7 +27,7 @@
 
 #### Backend
 <a href="#"><img src="https://img.icons8.com/color/48/django.png"></a>
-<a href="#"><img src="[https://img.icons8.com/nolan/64/flask.png"></a>
+<a href="#"><img src="https://img.icons8.com/nolan/64/flask.png"></a>
 <a href="#"><img src="https://img.icons8.com/color/48/api-settings.png"/></a>
 
 ### Video Editing
