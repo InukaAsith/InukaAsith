@@ -1,4 +1,4 @@
-## Hi 👋 I'm [Inuka](https://inukaasith.vercel.app)) 
+## Hi 👋 I'm [Inuka](https://inukaasith.vercel.app)
 
 
 
