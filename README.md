@@ -1,4 +1,6 @@
-## Hi 👋 I'm [Inuka](https://github.com/InukaAsith) 
+## Hi 👋 I'm [Inuka](https://inukaasith.vercel.app)) 
+
+
 
 - 💻 Studiying CS
 - 💀 **Suck** at learning
