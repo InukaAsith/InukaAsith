@@ -2,7 +2,7 @@
 
 
 
-- 💻 Studiying CS
+- 💻 Studiying CS in University of Colombo School of Computing
 - 💀 **Suck** at learning
 - 🎮 Gamer
 - 📫 **inukaasith7@gmail.com**
