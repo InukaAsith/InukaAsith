@@ -54,7 +54,7 @@
 ## 😒 Contact me
 <a href="https://telegram.me/InukaAsith" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" alt="Telegram"></a>
 <a href="https://www.instagram.com/Inukaasith6" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/inukaasith" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-new.png" alt="Linkedin"></a>
+<a href="https://www.linkedin.com/in/inukaasith" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="Linkedin"></a>
 
 
 
